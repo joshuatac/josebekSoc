@@ -399,7 +399,10 @@ width: 35px;
 
 @media (max-width:320px) {
     .outgoing .details p{
-       max-width: 400px;
+       max-width: 480px;
+    }
+        .incoming .details p{
+       max-width: 480px;
     }
 
     .chat-box{
